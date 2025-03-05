@@ -92,6 +92,8 @@
     width: 24px;
     height: 24px;
     color: #3a5a40;
+    margin-right: 8px;
+    vertical-align: middle;
   }
   
   .contact-label {
@@ -126,6 +128,8 @@
   .social-icon {
     width: 24px;
     height: 24px;
+    margin-right: 8px;
+    vertical-align: middle;
   }
   
   /* Navigation buttons styles */
